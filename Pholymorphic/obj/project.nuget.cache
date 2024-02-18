@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lIyvoCmxbwTOs1sCdFoYrVIFvswQLqTAmMUs8hMM/Q0/6Ge66nX2LnvQYfiZ7I8PH14Jf5f6KfvAhRsi4H0bWA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Pholymorphic\\Pholymorphic\\Pholymorphic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farshid.Shokoohi\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Farshid.Shokoohi\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Farshid.Shokoohi\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Farshid.Shokoohi\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Farshid.Shokoohi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Farshid.Shokoohi\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

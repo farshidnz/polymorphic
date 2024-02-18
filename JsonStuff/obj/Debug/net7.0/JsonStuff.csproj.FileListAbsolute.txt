@@ -1,0 +1,15 @@
+C:\dev\Pholymorphic\JsonStuff\bin\Debug\net7.0\JsonStuff.exe
+C:\dev\Pholymorphic\JsonStuff\bin\Debug\net7.0\JsonStuff.deps.json
+C:\dev\Pholymorphic\JsonStuff\bin\Debug\net7.0\JsonStuff.runtimeconfig.json
+C:\dev\Pholymorphic\JsonStuff\bin\Debug\net7.0\JsonStuff.dll
+C:\dev\Pholymorphic\JsonStuff\bin\Debug\net7.0\JsonStuff.pdb
+C:\dev\Pholymorphic\JsonStuff\obj\Debug\net7.0\JsonStuff.csproj.AssemblyReference.cache
+C:\dev\Pholymorphic\JsonStuff\obj\Debug\net7.0\JsonStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Pholymorphic\JsonStuff\obj\Debug\net7.0\JsonStuff.AssemblyInfoInputs.cache
+C:\dev\Pholymorphic\JsonStuff\obj\Debug\net7.0\JsonStuff.AssemblyInfo.cs
+C:\dev\Pholymorphic\JsonStuff\obj\Debug\net7.0\JsonStuff.csproj.CoreCompileInputs.cache
+C:\dev\Pholymorphic\JsonStuff\obj\Debug\net7.0\JsonStuff.dll
+C:\dev\Pholymorphic\JsonStuff\obj\Debug\net7.0\refint\JsonStuff.dll
+C:\dev\Pholymorphic\JsonStuff\obj\Debug\net7.0\JsonStuff.pdb
+C:\dev\Pholymorphic\JsonStuff\obj\Debug\net7.0\JsonStuff.genruntimeconfig.cache
+C:\dev\Pholymorphic\JsonStuff\obj\Debug\net7.0\ref\JsonStuff.dll
